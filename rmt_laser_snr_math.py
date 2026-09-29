@@ -1,5 +1,5 @@
 # %%
-model_name = "cognitivecomputations/dolphin-2.6-mistral-7b-dpo"  # Change to your preferred model
+model_name = "dphn/dolphin-2.6-mistral-7b-dpo"  # Change to your preferred model
 
 
 # %%
